@@ -18,7 +18,7 @@ function Main() {
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
-            href='https://www.linkedin.com/in/tolutope-dominique-42b1a6296/'
+            href='https://www.linkedin.com/in/tolutope-d-42b1a6296/'
             target='_blank'
             rel='noreferrer'
             >
